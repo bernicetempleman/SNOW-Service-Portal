@@ -5,3 +5,10 @@
 
 ![image](https://user-images.githubusercontent.com/12488769/148442405-ab0af0a6-1596-49d4-abf6-febc3dd2251e.png)
 
+
+# Creating custom widgets
+https://developer.servicenow.com/dev.do#!/learn/courses/rome/app_store_learnv2_serviceportal_rome_service_portal/app_store_learnv2_serviceportal_rome_creating_custom_widgets/app_store_learnv2_serviceportal_rome_widget_editor
+
+![image](https://user-images.githubusercontent.com/12488769/148442859-87e11ad9-281f-48fa-ae17-54f9b1e6368b.png)
+
+
