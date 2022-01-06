@@ -18,3 +18,5 @@ https://developer.servicenow.com/dev.do#!/learn/courses/rome/app_store_learnv2_s
 
 ![image](https://user-images.githubusercontent.com/12488769/148443621-2a3de2a2-ef99-4bf8-8982-92564338b539.png)
 
+## Previewing Widgits
+![image](https://user-images.githubusercontent.com/12488769/148443988-066f4d5b-e91b-417d-90bd-a0facba6acf3.png)
