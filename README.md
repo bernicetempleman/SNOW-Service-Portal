@@ -11,4 +11,6 @@ https://developer.servicenow.com/dev.do#!/learn/courses/rome/app_store_learnv2_s
 
 ![image](https://user-images.githubusercontent.com/12488769/148442859-87e11ad9-281f-48fa-ae17-54f9b1e6368b.png)
 
+# Cloning Custom Widget
+![image](https://user-images.githubusercontent.com/12488769/148443067-143641fa-a2bb-4bbc-a5c5-50c8c5275a35.png)
 
