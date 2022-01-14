@@ -1,4 +1,63 @@
 # SNOW-Service-Portal
+
+What is a Portal?
+- A portal is a ServiceNow user interface (UI), built using the Service Portal framework, which provides an alternative user experience to the standard UI. 
+- It is an intuitive way for users to interact with the underlying Now Platform using a minimum number of clicks from any device: desktop, tablet, or smartphone. 
+- Portals allow users to access any platform component including:
+- Selected records from important tables, such as all tasks assigned to the user
+- Metrics, reports, and analytics
+- Service Catalog
+- Knowledge Base
+- Surveys
+- User profile
+- Approvals
+- And more!
+- A portal is easily branded and themed to match your organization's branding.
+Instance.service-now.com/sp
+
+![image](https://user-images.githubusercontent.com/12488769/149434460-5722bb7f-aba0-464c-88dc-82d0552f0cc5.png)
+
+
+## Framework
+- The Service Portal framework is a set of tools, APIs, AngularJS services and directives, and components used to create portals. 
+- The Service Portal Framework helps developers and non‑technical administrators create attractive and engaging user experiences which drive employee adoption of critical enterprise applications.
+-Service Portal Configuration
+To access the Service Portal framework tools, in the main ServiceNow browser window, use the Application Navigator to open Service Portal > Service Portal
+![image](https://user-images.githubusercontent.com/12488769/149433936-4f191751-c453-4cce-b348-573e582ac925.png)
+
+## Configuration. 
+The Service Portal configuration page opens in a new tab and contains:
+- Branding Editor: Apply your company's branding to the portal including logo, background, and color scheme.
+- Designer: Create page layouts by adding or modifying containers, rows, columns, and widgets.
+- Page Editor: Use a hierarchical map to view or edit page elements.
+- Widget Editor: Create or edit widgets.
+- New Portal: Create a Service Portal.
+- Get Help: View the Service Portal documentation on docs.servicenow.com
+
+## Core concepts:
+Service Portal is a ServiceNow framework for building portals.
+ A portal is a user interface (UI) which provides an alternative user experience to the standard UI
+
+## The Service Portal Configuration page provides easy access to:
+- Branding Editor
+- Designer
+- Page Editor
+- Widget Editor
+- New Portal
+- Get Help
+
+## Use Page Designer to create portal pages
+- Portal pages are made up of:
+- Containers
+- Rows and columns
+- Widgets
+- Widget configuration options depend on widget type
+- Use Branding Editor to change logos and themes
+- Manage page responsiveness to different device types
+
+
+
+
 ![image](https://user-images.githubusercontent.com/12488769/147889536-eaf5b80f-0e9e-4cc5-85e2-d4604f2b7b14.png)
 
 https://developer.servicenow.com/dev.do#!/learn/courses/rome/app_store_learnv2_serviceportal_rome_service_portal
